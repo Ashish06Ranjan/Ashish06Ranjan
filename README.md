@@ -10,8 +10,8 @@
 ## 🔧 Skills
 - HTML  
 - CSS  
-- JavaScript (Learning)  
 - Python
+- Java
 
 ---
 
