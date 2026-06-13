@@ -2,8 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashish06Ranjan)
 
 🎓 BTech CSE Student  
-💻 Learning Web Development & Open Source  
-🚀 Currently doing #21DaysOfOpenSource Challenge  
+💻 Learning Web Development & Open Source   
 
 ---
 
